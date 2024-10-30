@@ -1,0 +1,24 @@
+
+
+.services ul li#jetpack-gplus-provider {
+	background: #FFF url(../images/plus.png) no-repeat 4px 6px;
+}
+.services ul li#jetpack-gplus-provider .option-left {
+margin-left: 4px;
+}
+.services ul li#jetpack-gplus-provider .input {
+	padding-bottom: 3px;
+}
+
+.services ul li#jetpack-gplus-provider .input label {
+	padding-left: 3px;
+}
+
+.services ul li#jetpack-gplus-provider .input input[type="submit"] {
+	float: none;
+}
+
+.preview li.preview-mixi-check {
+	padding: 0 !important;
+}
+
